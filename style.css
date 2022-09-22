@@ -1,0 +1,124 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav {
+    padding: 10px 20px;
+}
+
+.class>.two {
+    width: 100%;
+    display: inline;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#icon {
+    float: right;
+    margin: 0 30px 0 0;
+    border: 1px solid black;
+    border-radius: 4px;
+    padding: 5px 10px;
+    margin-top: -2px;
+}
+
+.zero {
+    background-color: black;
+    color: white;
+    background: radius;
+    padding: 1px 2px;
+}
+
+.head {
+    background-color: rgb(44, 42, 42);
+    width: 100%;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.relative {
+    position: relative;
+    width: 100%;
+    height: 400px;
+
+}
+
+.absolute {
+    position: absolute;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgb(223, 223, 223);
+    margin: 60px 0 0 70px;
+}
+
+.center {
+    font-family: sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.absolute1 {
+    position: absolute;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgb(223, 223, 223);
+    margin: 60px 0 0 400px;
+}
+.sale{
+    position: absolute;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border-radius: 4px;
+    width: 40px;
+    height: 20px;
+    top: 4px;
+    right: 3px;     
+}
+
+.center1 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.absolute2 {
+    position: absolute;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgb(223, 223, 223);
+    margin: 60px 0 0 720px;
+}
+
+.absolute3 {
+    position: absolute;
+    height: 300px;
+    width: 250px;
+    border: 1px solid rgb(223, 223, 223);
+    margin: 60px 0 0 1050px;
+}
+
+.center2 {
+    font-family: sans-serif;
+    text-align: center;
+    padding: 20px 0 20px 0;
+}
+
+.foot {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: 1px solid rgb(37, 37, 37);
+    color: white;
+    background-color: rgb(37, 37, 37);
+    height: 70px;
+    padding-top: 50px;
+}
+
+.shad {
+    color: rgb(116, 114, 114);
+}
